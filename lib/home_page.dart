@@ -1,5 +1,3 @@
-import 'dart:js';
-
 import 'package:currency_convertor/fetch_currency.dart';
 import 'package:currency_convertor/widget/customBuilder.dart';
 import 'package:currency_convertor/widget/customContainer.dart';
