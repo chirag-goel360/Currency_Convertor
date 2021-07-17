@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 // Get Your API Key from "https://free.currconv.com/"
-String key = "e977bc17897a573bfe0b";
+String key = "API KEY";
 
 class FetchData {
   Future<List<String>> getCurrencies() async {
